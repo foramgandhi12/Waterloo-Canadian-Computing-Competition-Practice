@@ -1,7 +1,6 @@
 # CCC 2017 Problem J4: Favourite Times
 # Programmer: Foram Gandhi
 
-
 d = int(input())
 
 def s_time(hour, minute, str_time, val):
