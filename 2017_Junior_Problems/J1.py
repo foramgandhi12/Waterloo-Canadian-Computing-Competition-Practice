@@ -1,7 +1,6 @@
 # CCC 2017 Problem J1: Quadrant Selection
 # Programmer: Foram Gandhi
 
-
 x = int(input())
 y = int(input())
 
