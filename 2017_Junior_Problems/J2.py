@@ -1,7 +1,6 @@
 # CCC 2017 Problem J2: Shifty Sum
 # Programmer: Foram Gandhi
 
-
 n = int(input())
 k = int(input())
 
