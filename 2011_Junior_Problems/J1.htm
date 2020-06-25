@@ -1,1 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>J1 Solution.</title>
+<script type='text/javascript'>
 
+//Function
+
+function alien(a,e)
+{
+//TroyMartian Alien
+if ((a>=3)&&(e<=4))
+{
+return "TroyMartian";
+}
+//VladSaturnian Alien
+if ((a<=6)&&(e>=4))
+{
+return "VladSaturnian";
+}
+//GraemeMercurian Alien
+if ((a<=2)&&(e<=3))
+{
+return "GraemeMercurian";
+}
+}
+//Prompt Boxes
+var a = prompt("How many antennas?",0);
+var e = prompt("How many eyes?",0)
+
+//Calling the Function
+document.write(alien(a,e))
+
+</script>
+</head>
+<body>
+
+</body>
+</html>
