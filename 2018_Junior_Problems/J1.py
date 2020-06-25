@@ -1,7 +1,6 @@
 # CCC 2018 Problem J1: Telemarketer or not?
 # Programmer: Foram Gandhi
 
-
 def telemarketer():
     lst = []
 
