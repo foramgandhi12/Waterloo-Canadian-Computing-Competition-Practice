@@ -1,7 +1,6 @@
 # CCC 2013 Problem J1: Next in line
 # Programmer: Foram Gandhi
 
-
 def next_in_line():
   youngest = int(input())
   middle = int(input())
