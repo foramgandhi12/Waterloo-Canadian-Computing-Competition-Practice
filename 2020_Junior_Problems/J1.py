@@ -1,7 +1,6 @@
 # CCC 2020 Problem J1: Dog Treats
 # Programmer: Foram Gandhi
 
-
 def dog_treats():
     
     s = int(input())
