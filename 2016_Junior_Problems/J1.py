@@ -1,7 +1,6 @@
 # CCC 2016 Problem J1: Tournament Selection
 # Programmer: Foram Gandhi
 
-
 def tournament_selection():
   games = 0
   outcome = []
@@ -25,3 +24,5 @@ def tournament_selection():
       print("3")
   else:
       print("-1")
+
+tournament_selection()      
