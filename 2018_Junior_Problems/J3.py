@@ -1,7 +1,6 @@
 # CCC 2018 Problem J3: Are we there yet?
 # Programmer: Foram Gandhi
 
-
 distances = input().split(" ")
 distances = [int(i) for i in distances]
 
