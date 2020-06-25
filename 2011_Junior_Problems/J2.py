@@ -1,7 +1,6 @@
 # CCC 2011 Problem J2: Who Has Seen The Wind
 # Programmer: Foram Gandhi
 
-
 def wind():
     h = int(input())
     max_hours = int(input())
