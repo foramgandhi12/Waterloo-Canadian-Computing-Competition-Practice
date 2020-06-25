@@ -1,7 +1,6 @@
 # CCC 2014 Problem J1: Triangle Times
 # Programmer: Foram Gandhi
 
-
 def triangle_times():
   int1 = int(input())
   int2 = int(input())
