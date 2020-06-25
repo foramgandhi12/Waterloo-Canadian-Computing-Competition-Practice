@@ -1,30 +1,32 @@
 # CCC 2013 Problem J4: Time on task
 # Programmer: Foram Gandhi
 
+def time_on_task():
+    time = int(input())
+    num_chores = int(input())
 
-time = int(input())
-num_chores = int(input())
+    count = 0
+    num_minutes = []
 
-count = 0
-num_minutes = []
-
-while count < num_chores:
+    while count < num_chores:
     
-    minutes = int(input())
-    num_minutes.append(minutes)
+        minutes = int(input())
+        num_minutes.append(minutes)
     
-    count += 1
+        count += 1
 
-num_minutes.sort()
-c = 0
-total = 0
+    num_minutes.sort()
+    c = 0
+    total = 0
 
-while total <= time and c < len(num_minutes):
-    total += num_minutes[c]
-    c += 1
+    while total <= time and c < len(num_minutes):
+        total += num_minutes[c]
+        c += 1
 
-if total > time:
-    print(c - 1)
+    if total > time:
+        print(c - 1)
     
-else:
-    print(count)
+    else:
+        print(count)
+        
+time_on_task()
