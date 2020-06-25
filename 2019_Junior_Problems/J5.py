@@ -1,7 +1,6 @@
 # CCC 2019 Problem J5: Rule of Three
 # Programmer: Foram Gandhi
 
-
 rules = []
 
 for count in range(1, 4):
@@ -39,7 +38,6 @@ def solve(steps_left, seq, prev):
             if outcome:
                 return outcome
         
-    
 def find_index(seq, find_rule):
     indices_list = []
     curr_index = 0
