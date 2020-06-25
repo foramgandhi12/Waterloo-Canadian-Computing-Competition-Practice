@@ -1,7 +1,6 @@
 # CCC 2016 Problem J2: Magic Squares
 # Programmer: Foram Gandhi
 
-
 row = []
 
 def main():
