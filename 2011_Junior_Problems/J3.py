@@ -1,7 +1,6 @@
 # CCC 2011 Problem J3: Sumac Sequences
 # Programmer: Foram Gandhi
 
-
 def sumac_sequences():
     t1 = int(input())
     t2 = int(input())
