@@ -1,7 +1,6 @@
 # CCC 2015 Problem J5: Pi-Day
 # Programmer: Foram Gandhi
 
-
 pieces = int(input())
 people = int(input())
 
