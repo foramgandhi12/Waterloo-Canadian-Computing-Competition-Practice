@@ -1,7 +1,6 @@
 # CCC 2019 Problem J1: Winning Score
 # Programmer: Foram Gandhi
 
-
 def winning_score():
     count = 0
     lst = []
