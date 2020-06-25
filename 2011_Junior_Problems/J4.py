@@ -80,4 +80,4 @@ def boring_business():
         direction = strip_command[0]
         length = int(strip_command[1])
       
- boring_business()
+boring_business()
