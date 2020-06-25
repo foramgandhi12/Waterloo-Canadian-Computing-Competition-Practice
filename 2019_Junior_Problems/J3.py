@@ -1,7 +1,6 @@
 # CCC 2019 Problem J3: Cold Compress
 # Programmer: Foram Gandhi
 
-
 def num_firsts(line):
     start = line[0]
     count = 0
