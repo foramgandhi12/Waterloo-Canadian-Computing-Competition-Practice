@@ -1,7 +1,6 @@
 # CCC 2015 Problem J1: Special Day
 # Programmer: Foram Gandhi
 
-
 def special_day():
   month = int(input())
   day = int(input())
