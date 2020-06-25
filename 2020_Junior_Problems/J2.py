@@ -1,7 +1,7 @@
 # CCC 2020 Problem J2: Epidemiology
 # Programmer: Foram Gandhi
 
-def epidemiology()
+def epidemiology():
     p = int(input())
     n = int(input())
     r = int(input())
